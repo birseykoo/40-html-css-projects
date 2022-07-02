@@ -5,7 +5,7 @@ Bu Repo Linkleri verilen Html ve Css projelerini kapsamaktadır. Amacım hem pra
 <!-- markdownlint-disable MD034 -->
 |ID|Proje Dosyası|proje Linki|
 |:--|:------------|:---------|
-|1||https://t.co/R5GsD09hhi|
+|1||[Create your first HTML/CSS project](https://t.co/R5GsD09hhi)|
 |2||https://t.co/fdMSUsnyBC|
 |3||https://t.co/wzqSZpCBc4|
 |4||https://t.co/DIf4zNv5aO|
