@@ -30,6 +30,15 @@ img{
 	object-fit: cover;
 }
 
+p{
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-top: 5px;
+  color:black;
+  margin-bottom: 2rem;
+  letter-spacing: .05rem;
+}
+
 /* Hero Section */
 #hero {
   background-image: url('../img/hero-bg.png');/*Değişecek*/
@@ -77,6 +86,7 @@ img{
 }
 
 #hero h1:nth-child(3){
+  animation: text_reveal_name .5s ease forwards;
   animation-delay: 3.5s;
 }
 
@@ -100,6 +110,7 @@ img{
 }
 
 #hero h1:nth-child(3) span{
+  
   animation-delay: 3s;
 }
 
@@ -124,6 +135,103 @@ img{
 
 /* End Hero Section */
 
+/* Services Section */
+
+#services .services{
+  flex-direction: column;
+  text-align: center;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+
+#services .section-title{
+  font-size: 4rem;
+  font-weight: 400;
+  margin-bottom: 30px;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: .2rem;
+  text-align: center;
+}
+
+#services .section-title span{
+  color: crimson;
+}
+
+#services .services-top{
+  font-size: 1.5rem;
+  margin-top: 5px;
+  line-height: 2.5rem;
+  font-weight: 400;
+  letter-spacing: .05rem;
+}
+
+#services .services-bottom{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+#services .services-item{
+  flex-basis: 80%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+  border-radius: 10px;
+  background-image: url('../img/img-1.png');/*Değişecek*/
+  background-size: cover;
+  margin: 10px 5%;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+#services .services-item h2{
+  font-size: 2rem;
+  font-weight: 400;
+  margin-bottom: 10px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+}
+
+#services .services-item p{
+  color: white;
+  text-align: left;
+}
+
+#services .services-item::after{
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+  opacity: 0.7;
+  z-index: -1;
+}
+
+#services .services-bottom .icon{
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+#services .services-bottom .icon img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* End Services Section */
+
 /*keyframes*/
 @keyframes text_reveal_box{
   50%{
@@ -138,6 +246,12 @@ img{
 @keyframes text_reveal{
   100%{
     color: antiquewhite;
+  }
+}
+@keyframes text_reveal_name{
+  100%{
+    color: crimson;
+    font-weight: 700;
   }
 }
 /* End keyframes */
