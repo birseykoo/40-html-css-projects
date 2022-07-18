@@ -6,7 +6,7 @@ Bu Repo Linkleri verilen Html ve Css projelerini kapsamaktadır. Amacım hem pra
 |ID|Proje Dosyası|proje Linki|
 |:--|:------------|:---------|
 |1|[Poject file](https://github.com/birseykoo/40-html-css-projects/tree/main/Create-your-first-HTML-CSS-project)|[Create your first HTML/CSS project](https://t.co/R5GsD09hhi)|
-|2||https://t.co/fdMSUsnyBC|
+|2|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/one-page-full-website-project-for-practice)|[One Page Full Website Project For Practice](https://t.co/fdMSUsnyBC)|
 |3||https://t.co/wzqSZpCBc4|
 |4||https://t.co/DIf4zNv5aO|
 |5||https://t.co/uQUnESBGMJ|
