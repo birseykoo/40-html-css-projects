@@ -5,7 +5,7 @@ Bu Repo linkleri verilen Html ve Css projelerini kapsamaktadır. Amacım hem pra
 <!-- markdownlint-disable MD034 -->
 |ID|Proje Dosyası|proje Linki|
 |:--|:------------|:---------|
-|1|[Poject file](https://github.com/birseykoo/40-html-css-projects/tree/main/Create-your-first-HTML-CSS-project)|[Create your first HTML/CSS project](https://t.co/R5GsD09hhi)|
+|1|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/Create-your-first-HTML-CSS-project)|[Create your first HTML/CSS project](https://t.co/R5GsD09hhi)|
 |2|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/one-page-full-website-project-for-practice)|[One Page Full Website Project For Practice](https://t.co/fdMSUsnyBC)|
 |3|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/website-header-with-html-and-css)|[How To Make A Website Header Using HTML And CSS Step By Step - Web Design In HTML & CSS](https://t.co/wzqSZpCBc4)|
 |4|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/04-create-website-for-beginners)|[HTML and CSS Tutorial - Create a Website for Beginners](https://t.co/DIf4zNv5aO)|
