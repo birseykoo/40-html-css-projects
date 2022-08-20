@@ -14,5 +14,5 @@ videoları ile birlikte yapılmıştır.
 ![images](https://github.com/birseykoo/40-html-css-projects/blob/main/05-build-responsive-website/design/active-states.jpg)
 ![images](https://github.com/birseykoo/40-html-css-projects/blob/main/05-build-responsive-website/design/desktop-design.jpg)
 ![images](https://github.com/birseykoo/40-html-css-projects/blob/main/05-build-responsive-website/design/desktop-preview.jpg)
-![images](https://github.com/birseykoo/40-html-css-projects/blob/main/05-build-responsive-website/design/mobile-design.jpg)
 ![images](https://github.com/birseykoo/40-html-css-projects/blob/main/05-build-responsive-website/design/mobile-navigation.jpg)
+![images](https://github.com/birseykoo/40-html-css-projects/blob/main/05-build-responsive-website/design/mobile-design.jpg)
