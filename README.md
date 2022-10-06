@@ -14,7 +14,7 @@ Bu Repo linkleri verilen Html ve Css projelerini kapsamaktadır. Amacım hem pra
 |7|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/07-build-glass-website-with)|[Build Glass Website with HTML and CSS Tutorial](https://t.co/smAxrCJ5eB)|
 |8|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/08-website-design-tutorial)|[How To Make Website using Html & CSS Complete Responsive Website Design Tutorial](https://t.co/pRy4VCPG70)|
 |9|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/09-html-css-e-commerce-website)|[How To Make Ecommerce Website Using HTML And CSS Step By Step Create e-Commerce Website](https://t.co/cDKm7lFmPw)|
-
+|9|[Project file](https://github.com/birseykoo/40-html-css-projects/tree/main/10-whatsapp-clone)|[HTML VE CSS KULLANARAK WHATSAPP I KODLUYORUZ - WHATSAPP CLONE USING HTML + CSS](https://www.youtube.com/watch?v=90tvoBC6244&ab_channel=%C3%96zgeloji)|
 <!-- markdownlint-enable MD034 -->
 
 [Tool ve ihtyaç dahilinde ilham almak için bradtraversy reposunu inceleyebilirsiniz](https://github.com/bradtraversy/design-resources-for-developers)
