@@ -253,7 +253,7 @@ main .container .row .col-sm .title-icon h3:hover {
 
 main .container .row .col-sm .parg-icon p {
   position: relative;
-  text-align: justify;
+  text-align: justicfy;
   color: #525659;
   margin-top: 1.5rem;
   font-size: 1.25rem;
@@ -496,7 +496,7 @@ main .title p {
   margin-right: auto;
 }
 .center .col h2 {
-  color: #fff;
+  color: #ffffff;
   text-align: center;
   font-size: 2.8125rem;
   line-height: 1.2;
