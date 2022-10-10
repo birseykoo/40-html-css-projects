@@ -20,6 +20,4 @@ Html tasarımı ve class isimlendirilmesi üzerinde çalışılmalıdır.
 
 ![Image: Ekran Görüntüsü (1)](https://i.imgur.com/ldq1bQE.png)
 
-![Image: Ekran Görüntüsü (1)](hhttps://i.imgur.com/PG3yywz.png)
-
 ![Image: Ekran Görüntüsü (1)](https://i.imgur.com/7TK55QM.png)
