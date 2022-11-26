@@ -29,3 +29,7 @@ Html tasarımı ve class isimlendirilmesi üzerinde çalışılmalıdır.
 ![Image: Ekran Görüntüsü (1)](https://i.imgur.com/SpOiVjP.png)
 
 ![Image: Ekran Görüntüsü (1)](https://i.imgur.com/LMPEmOq.png)
+
+smass
+getbem
+bootstrap position
